@@ -1,7 +1,9 @@
 # Machine and Deep Learning for Lithofacies Classification from Well Logs in the North Sea.
 
 This repository holds my [Mater's Thesis](https://uis.brage.unit.no/uis-xmlui/bitstream/handle/11250/2786292/no.uis%3Ainspera%3A78834918%3A47156456.pdf?sequence=1&isAllowed=y) work at the University of Stavanger, Norway.
+
 If interested you can also find a recorded presentation I held during the [FORCE](https://www.sodir.no/en/force/) seminars in 2021 [here](https://www.youtube.com/watch?v=khUgtXGEJnU)
+
 Additionally, a python based web application showing the results interactively can also be found [here](https://github.com/JohnMasapantaPozo/Litho-Machine-Leraning-Web-App).
 
 ## Abstract
