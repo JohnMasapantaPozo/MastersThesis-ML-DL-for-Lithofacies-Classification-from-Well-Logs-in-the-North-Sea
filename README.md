@@ -1,5 +1,10 @@
 # Machine and Deep Learning for Lithofacies Classification from Well Logs in the North Sea.
-Abstract
+
+This repository holds my [Mater's Thesis](https://uis.brage.unit.no/uis-xmlui/bitstream/handle/11250/2786292/no.uis%3Ainspera%3A78834918%3A47156456.pdf?sequence=1&isAllowed=y) work at the University of Stavanger, Norway.
+If interested you can also find a recorded presentation I held during the [FORCE](https://www.sodir.no/en/force/) seminars in 2021 [here](https://www.youtube.com/watch?v=khUgtXGEJnU)
+Additionally, a python based web application showing the results interactively can also be found [here](https://github.com/JohnMasapantaPozo/Litho-Machine-Leraning-Web-App).
+
+## Abstract
 
 Lithology identification by using well log data is an initial and fundamental step within petroleum geosciences; same that provides essential information about the subsurface and plays a crucial role in reservoir characterization. In addition, well log interpretation is a process that involves a great amount of data, same that is currently handled by experts in order to attain an accurate portrayal of the subsurface. However, as humanity enters the era of big data in companion of the increasing technological and computational development, data science and machine learning are progressively taking over the forefront of the future of the oil and gas industry in order to improve and optimize processes.
 
